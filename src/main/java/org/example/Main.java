@@ -2,6 +2,7 @@ package org.example;
 
 public class Main {
         //this is a comment
+        //this is another comment
 
         public static void main(String[] args) {
         //Task 1
