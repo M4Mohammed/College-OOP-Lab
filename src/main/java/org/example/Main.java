@@ -25,7 +25,7 @@ public class Main {
                 {7, 8, 9}
         };
         TaskCuatro.transpose(matrix, 3);
-        //it works, you don't need the output. Trust bro!
+        //it works, you don't need to see the output. Trust bro!
 
         //Task 5
         System.out.println(TaskCinco.deleteChar("Hello, World!", ','));
